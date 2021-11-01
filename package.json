@@ -1,5 +1,5 @@
 {
-    "name": "node-qunit-puppeteer",
+    "name": "@matthewp/node-qunit-puppeteer",
     "version": "3.0.0",
     "description": "A simple node module for running qunit tests with headless Chromium",
     "repository": {
